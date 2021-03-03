@@ -1,0 +1,3 @@
+[06-Jan-2020 16:53:00 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/badayakhair/public_html/66/database/migrations/2017_01_21_123330_create_pages_table.php on line 7
+[10-Jan-2020 10:40:43 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/badayakhair/public_html/66/database/migrations/2017_01_21_123330_create_pages_table.php on line 7
+[10-Jan-2020 10:40:45 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/badayakhair/public_html/66/database/migrations/2017_01_21_123330_create_pages_table.php on line 7

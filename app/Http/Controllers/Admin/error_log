@@ -1,0 +1,1 @@
+[17-Oct-2019 15:47:41 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/badayakhair/public_html/66/app/Http/Controllers/Admin/Areas.php on line 2

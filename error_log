@@ -1,0 +1,13 @@
+[14-Mar-2017 14:27:33 UTC] PHP Fatal error:  Class 'PDFAnony\TCPDF\AnonyServiceProvider' not found in /home/badaye3/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 201
+[14-Mar-2017 14:27:54 UTC] PHP Fatal error:  Class 'PDFAnony\TCPDF\AnonyServiceProvider' not found in /home/badaye3/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 201
+[14-Mar-2017 14:28:42 UTC] PHP Fatal error:  Class 'PDFAnony\TCPDF\AnonyServiceProvider' not found in /home/badaye3/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 201
+[14-Mar-2017 14:30:55 UTC] PHP Fatal error:  Class 'PDFAnony\TCPDF\AnonyServiceProvider' not found in /home/badaye3/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 201
+[14-Mar-2017 14:30:59 UTC] PHP Fatal error:  Class 'PDFAnony\TCPDF\AnonyServiceProvider' not found in /home/badaye3/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 201
+[14-Mar-2017 16:52:46 UTC] PHP Fatal error:  Call to a member function files() on null in /home/badaye3/public_html/app/Http/Controllers/Admin/ConNews.php on line 183
+[14-Mar-2017 17:20:22 UTC] PHP Fatal error:  Class 'App\FormPdf' not found in /home/badaye3/public_html/storage/framework/views/498087babdda7c75edfc7f05f82c89cfaa8ef36c.php on line 236
+[14-Mar-2017 17:20:29 UTC] PHP Fatal error:  Class 'App\FormPdf' not found in /home/badaye3/public_html/storage/framework/views/498087babdda7c75edfc7f05f82c89cfaa8ef36c.php on line 236
+[19-Mar-2017 03:18:10 UTC] PHP Fatal error:  Class 'App\FormPdf' not found in /home/badaye3/public_html/storage/framework/views/498087babdda7c75edfc7f05f82c89cfaa8ef36c.php on line 236
+[19-Mar-2017 03:18:39 UTC] PHP Fatal error:  Class 'App\FormPdf' not found in /home/badaye3/public_html/storage/framework/views/d3e737be42e309ee11fa3c1627f76b36cd647fbe.php on line 387
+[19-Mar-2017 05:04:30 UTC] PHP Fatal error:  Class 'App\FormPdf' not found in /home/badaye3/public_html/storage/framework/views/d3e737be42e309ee11fa3c1627f76b36cd647fbe.php on line 387
+[19-Mar-2017 09:54:03 UTC] PHP Fatal error:  Class 'App\FormPdf' not found in /home/badaye3/public_html/storage/framework/views/d3e737be42e309ee11fa3c1627f76b36cd647fbe.php on line 387
+[19-Mar-2017 11:52:16 UTC] PHP Fatal error:  Class 'App\FormPDF' not found in /home/badaye3/public_html/app/Http/Controllers/Admin/FormsPDF.php on line 48
